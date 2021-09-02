@@ -1031,6 +1031,9 @@ section {
   .breadcrumbs .d-flex {
     display: block !important;
   }
+  #hero{
+    background-size: auto;
+  }
   .breadcrumbs ol {
     display: block;
   }
