@@ -1,6 +1,6 @@
-# Hellooooo!
-# This is [Poisent Moyo]
-# Click to view my (Repositories)([https://github.com/itspoi](https://github.com/itspoi?tab=repositories))
+# Helloooo!
+# This is Poisent Deogratius
+# Click to view my [Repositories]([https://github.com/itspoi](https://github.com/itspoi?tab=repositories))
 
 # About
 I'm an aspiring software enthusisast.
