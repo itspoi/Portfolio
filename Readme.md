@@ -1,6 +1,6 @@
 # Helloooo!
 # This is Poisent.
-# Click to view my [][Repositories](https://github.com/itspoi?tab=repositories)
+# Click to view my ([Repositories](https://github.com/itspoi?tab=repositories))
 
 # About
 I'm an aspiring software enthusisast.
